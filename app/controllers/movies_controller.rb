@@ -7,6 +7,9 @@ class MoviesController < ApplicationController
 	def new
 	end
 
+	def newId
+	end
+
 	def about
 	end
 
